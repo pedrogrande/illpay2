@@ -622,7 +622,8 @@ h2#font_icons_slider {
 }
 /*REVOLUTION SLIDER V2*/
 .rs2 {
-	background:url(../images/textures/texture-square1.jpg)
+	/*background:url(../images/textures/texture-square1.jpg)*/
+	background:url(../images/color-bg.png)
 }
 /* =============== SEQUENCE =================*/
 .sequence-prev i, .sequence-next i {
