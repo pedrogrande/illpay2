@@ -491,7 +491,7 @@ text-shadow: 1px 1px 0 rgba(0, 0, 0, 0.2);}
 	color:#EDEDED;
 }
 .mainNav {
-	margin-top:44px;
+	/*margin-top:44px;*/
 }
 .dropdown-menu li > a:hover, .dropdown-menu li > a:focus, .dropdown-submenu:hover > a {
 	background-color: #099;
@@ -2201,7 +2201,7 @@ form .error {
 	margin:0 auto;
 	position:relative;
 	padding:0;
-	max-height:430px;
+	max-height:500px;
 	overflow:hidden;
 }
 .tp-bannertimer {

@@ -51,7 +51,7 @@
                 stopLoop:"off",
                                         
                 wrapper:'#sliderWrapperRS',
-                wrapperheight:432
+                wrapperheight:502
             };
 
             options = $.extend({}, defaults, options);

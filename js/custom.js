@@ -575,7 +575,7 @@ $(window).load(function() {
                 
                 
                 wrapper:'#sliderWrapper',
-                wrapperheight:430
+                wrapperheight:500
 
             });
 
